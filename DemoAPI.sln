@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAPI", "DemoAPI\DemoAPI.csproj", "{D6C3D0B7-26F9-4CE2-AC5A-D7C121A822FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InflateDeflateBase64", "InflateDeflateBase64\InflateDeflateBase64.csproj", "{7B21C8DB-99AD-4A67-8A82-75636CFB78A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6C3D0B7-26F9-4CE2-AC5A-D7C121A822FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C3D0B7-26F9-4CE2-AC5A-D7C121A822FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C3D0B7-26F9-4CE2-AC5A-D7C121A822FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C3D0B7-26F9-4CE2-AC5A-D7C121A822FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B21C8DB-99AD-4A67-8A82-75636CFB78A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B21C8DB-99AD-4A67-8A82-75636CFB78A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B21C8DB-99AD-4A67-8A82-75636CFB78A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B21C8DB-99AD-4A67-8A82-75636CFB78A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23670CA5-481C-483A-86A3-D31F919F6C2C}
+	EndGlobalSection
+EndGlobal
